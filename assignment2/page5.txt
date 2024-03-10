@@ -1,0 +1,111 @@
+<div class="frame-11-PXr" id="27:23">
+<p class="how-we-work-Awv" id="27:26">HOW WE WORK</p>
+<p class="we-offers-best-services-6sW" id="27:30">WE OFFERS BEST SERVICES</p>
+<p class="choose-destination-a1z" id="27:33">Choose Destination</p>
+<p class="five-star-hotel-fZE" id="27:38">Five star hotel</p>
+<p class="air-ticketing-mcG" id="27:40">Air ticketing</p>
+<p class="with-the-best-budget-and-excellent-services-GJ8" id="27:36">
+with the best budget and excellent services.
+
+<br/>
+</p>
+<p class="hotel-with-first-class-facility-in-budget-osm-locations-xgk" id="27:39">
+hotel with first class facility, in budget &amp; osm locations.
+
+<br/>
+<br/>
+</p>
+<p class="business-class-is-thereeconomy-in-less-price-3iC" id="27:41">
+Business class is there,economy in less price.
+
+<br/>
+<br/>
+</p>
+<img class="map-clipart-png-images-map-location-pin-world-business-logo-template-flat-color-png-image-for-free-download-1-vmz" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="27:42"/>
+<img class="estrellas-de-colores-1-zG4" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="27:43"/>
+<img class="airplane-takeoff-vector-hd-png-images-airplane-takeoff-icon-front-view-transport-symbol-orange-png-image-for-free-download-1-WVJ" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="27:44"/>
+<div class="rectangle-37-xMJ" id="28:45"></div>
+<img class="vector-realistic-vintage-surfer-van-on-the-beach-1-EZi" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="29:47"/>
+<p class="best-place-LMr" id="29:48">BEST PLACE</p>
+<p class="services-3n4" id="29:51">SERVICES</p>
+<p class="terms-conditions-N3e" id="29:52">TERMS &amp; CONDITIONS</p>
+<div class="frame-25-g4L" id="47:58">
+<p class="kp-tour-LPn" id="47:59">KP-TOUR</p>
+<p class="home-efN" id="47:60">Home</p>
+<p class="stays-xg4" id="47:61">Stays</p>
+<p class="flight-UuJ" id="47:65">Flight</p>
+<p class="destinations-R3r" id="47:62">Destinations</p>
+<p class="contact-wH6" id="47:63">Contact</p>
+<p class="search-fyn" id="47:64">Search</p>
+</div>
+<div class="frame-25-n2p" id="53:39">
+<div class="auto-group-8bbj-FSC" id="U1MoCqgmUGJgZrfp2A8bBJ">
+<p class="company-zPn" id="53:40">Company</p>
+<p class="explore-7zC" id="53:41">Explore</p>
+<p class="policies-rgt" id="53:42">Policies</p>
+<p class="help-Bz4" id="53:43">Help</p>
+</div>
+<div class="auto-group-grsv-L6G" id="U1MoR11AuG8MC8gSobgrsv">
+<p class="about-us-5Ze" id="53:45">
+About us
+
+<br/>
+</p>
+<p class="travel-guide-cJg" id="53:46">
+Travel guide
+
+<br/>
+</p>
+<p class="privacy-8H2" id="53:47">
+Privacy
+
+<br/>
+</p>
+<p class="support-FsS" id="53:48">
+Support
+
+<br/>
+</p>
+</div>
+<div class="auto-group-8lhj-o8G" id="U1MoczfBmLiedaoRjx8LHJ">
+<p class="jobs-KsJ" id="53:56">jobs</p>
+<p class="hotels-4K6" id="53:49">
+Hotels
+
+<br/>
+</p>
+<p class="cookies-Ad2" id="53:51">
+Cookies
+
+<br/>
+</p>
+<p class="cancel-flight-Utc" id="53:53">
+Cancel flight
+
+<br/>
+</p>
+</div>
+<div class="auto-group-le36-DLQ" id="U1Mompjoqyw1XM11bdLe36">
+<p class="partnership-Lfv" id="53:55">
+partnership
+
+<br/>
+</p>
+<p class="travel-blog-fy6" id="53:50">
+Travel blog
+
+<br/>
+</p>
+<p class="terms-of-use-Cy2" id="53:52">
+Terms of use
+
+<br/>
+</p>
+<p class="documents-vPE" id="53:54">
+Documents
+
+<br/>
+</p>
+</div>
+</div>
+</div>

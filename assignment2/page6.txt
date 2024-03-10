@@ -1,0 +1,116 @@
+div class="frame-12-L1S" id="30:3">
+<img class="line-5-iGt" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="38:106"/>
+<div class="auto-group-iyrj-apt" id="U1MpaYtx3R4yNxJYVsiYRJ">
+<p class="season-sale-qGx" id="30:4">Season Sale</p>
+<p class="travel-like-never-before-RW4" id="37:78">Travel Like Never Before!!</p>
+<p class="best-responses-uw2" id="37:79">Best Responses</p>
+<div class="frame-26-1z4" id="47:66">
+<p class="kp-tour-3vk" id="47:67">KP-TOUR</p>
+<p class="home-vUk" id="47:68">Home</p>
+<p class="stays-e9r" id="47:69">Stays</p>
+<p class="flight-A8C" id="47:73">Flight</p>
+<p class="destinations-tK6" id="47:70">Destinations</p>
+<p class="contact-pCk" id="47:71">Contact</p>
+<p class="search-8jE" id="47:72">Search</p>
+</div>
+</div>
+<div class="line-1-2Jp" id="37:76"></div>
+<div class="auto-group-ovrr-6pU" id="U1MpwHoPhgFx7kgHNMovRr">
+<img class="rectangle-40-EQt" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="37:83"/>
+<p class="sale-ZTA" id="37:85">SALE</p>
+<p class="extra-50-off-492" id="37:86">EXTRA 50% OFF</p>
+<p class="end-of-season-mJL" id="37:87">END OF SEASON</p>
+<p class="travel-adventure-fec" id="37:90">
+TRAVEL &amp;
+
+<br/>
+ADVENTURE
+
+</p>
+<img class="line-3-YyJ" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="37:92"/>
+<div class="rectangle-41-gpc" id="37:95"></div>
+<p class="book-now-27n" id="37:96">Book Now</p>
+<p class="travel-with-the-extraordinary-experience-X4Y" id="37:98">Travel With the extraordinary experience</p>
+<img class="airplane-1-cbn" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="37:99"/>
+<img class="instagram-1-KFJ" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="38:102"/>
+<img class="facebook-1-1-bTi" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="38:101"/>
+<img class="whatsapp-1-Kec" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="38:100"/>
+<p class="social-handles-are-availabe-for-direct-booking-jiL" id="53:150">
+SOCIAL HANDLES ARE
+
+<br/>
+AVAILABE FOR DIRECT BOOKING
+
+</p>
+<div class="frame-26-LCL" id="53:75">
+<div class="auto-group-ansg-CVS" id="U1MqWMgdMrVxfexJsNaNSG">
+<p class="company-vRS" id="53:76">Company</p>
+<p class="explore-dqe" id="53:77">Explore</p>
+<p class="policies-kfN" id="53:78">Policies</p>
+<p class="help-5he" id="53:79">Help</p>
+</div>
+<div class="auto-group-jo1n-dDN" id="U1Mqnw3LqAvojp4jaejo1n">
+<p class="about-us-Ngk" id="53:81">
+About us
+
+<br/>
+</p>
+<p class="travel-guide-q4Y" id="53:82">
+Travel guide
+
+<br/>
+</p>
+<p class="privacy-vLt" id="53:83">
+Privacy
+
+<br/>
+</p>
+<p class="support-px4" id="53:84">
+Support
+
+<br/>
+</p>
+</div>
+<div class="auto-group-tv9w-Mwz" id="U1Mqy6R5T9z68BPYD2tV9W">
+<p class="jobs-th2" id="53:92">jobs</p>
+<p class="hotels-csv" id="53:85">
+Hotels
+
+<br/>
+</p>
+<p class="cookies-LZ2" id="53:87">
+Cookies
+
+<br/>
+</p>
+<p class="cancel-flight-4jv" id="53:89">
+Cancel flight
+
+<br/>
+</p>
+</div>
+<div class="auto-group-3ce8-wHv" id="U1Mr6RYCRY8ALWaFSv3cE8">
+<p class="partnership-G5J" id="53:91">
+partnership
+
+<br/>
+</p>
+<p class="travel-blog-Cje" id="53:86">
+Travel blog
+
+<br/>
+</p>
+<p class="terms-of-use-jja" id="53:88">
+Terms of use
+
+<br/>
+</p>
+<p class="documents-qnc" id="53:90">
+Documents
+
+<br/>
+</p>
+</div>
+</div>
+</div>
+</div>

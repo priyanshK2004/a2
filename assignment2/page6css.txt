@@ -1,0 +1,520 @@
+.frame-12-L1S {
+  align-items: center;
+  background-color: #e1dcdc;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding-top: 3.35rem;
+  position: relative;
+  width: 100%;
+
+  .line-5-iGt {
+    flex-shrink: 0;
+    height: 0;
+    margin-bottom: 0.15rem;
+    object-fit: contain;
+    vertical-align: top;
+    width: 157.6rem;
+  }
+  .auto-group-iyrj-apt {
+    flex-shrink: 0;
+    height: 10.6rem;
+    margin-bottom: 4.7rem;
+    position: relative;
+    width: 100%;
+
+    .season-sale-qGx {
+      color: #ec4b4b;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 500;
+      height: 4.5rem;
+      left: 6rem;
+      line-height: 1.25;
+      position: absolute;
+      text-align: center;
+      top: 6.1rem;
+      white-space: nowrap;
+      width: 28.8rem;
+    }
+    .travel-like-never-before-RW4 {
+      color: #f51a1a;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 500;
+      height: 4.5rem;
+      left: 43.6rem;
+      line-height: 1.25;
+      position: absolute;
+      text-align: center;
+      top: 5.4rem;
+      white-space: nowrap;
+      width: 62.1rem;
+    }
+    .best-responses-uw2 {
+      color: #f91010;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 500;
+      height: 4.5rem;
+      left: 109.3rem;
+      line-height: 1.25;
+      position: absolute;
+      text-align: center;
+      top: 5.2rem;
+      white-space: nowrap;
+      width: 36.9rem;
+    }
+    .frame-26-1z4 {
+      align-items: center;
+      border: solid 0.6rem #bca8a8;
+      border-radius: 1.2rem;
+      box-sizing: border-box;
+      display: flex;
+      height: 6rem;
+      left: 0;
+      overflow: hidden;
+      padding: 0.6rem 6.5rem 0.5rem 1.9rem;
+      position: absolute;
+      top: 0;
+      width: 157.6rem;
+
+      .kp-tour-3vk {
+        color: #7b8137;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 4rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin-right: 15.2rem;
+        white-space: nowrap;
+      }
+      .home-vUk {
+        color: #f91010;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 3.3rem 0.5rem 0rem;
+        white-space: nowrap;
+      }
+      .stays-e9r {
+        color: #f51a1a;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 3.3rem 0.1rem 0rem;
+        white-space: nowrap;
+      }
+      .flight-A8C {
+        color: #f91010;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 3.2rem 0.5rem 0rem;
+        white-space: nowrap;
+      }
+      .destinations-tK6 {
+        color: #f51a1a;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 3.2rem 0.5rem 0rem;
+        white-space: nowrap;
+      }
+      .contact-pCk {
+        color: #ec4b4b;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin: 0rem 27.6rem 0.5rem 0rem;
+        white-space: nowrap;
+      }
+      .search-8jE {
+        color: #f85f2f;
+        flex-shrink: 0;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        margin-bottom: 0.1rem;
+        white-space: nowrap;
+      }
+    }
+  }
+  .line-1-2Jp {
+    background-color: #000000;
+    flex-shrink: 0;
+    height: 0.1rem;
+    margin: 0rem 0rem 0.2rem 0rem;
+    width: calc(100% - 0rem);
+  }
+  .auto-group-ovrr-6pU {
+    flex-shrink: 0;
+    height: 97rem;
+    position: relative;
+    width: 100%;
+
+    .rectangle-40-EQt {
+      height: 67.2rem;
+      left: 74.6rem;
+      object-fit: cover;
+      position: absolute;
+      top: 0;
+      vertical-align: top;
+      width: 83rem;
+    }
+    .sale-ZTA {
+      color: #ffffff;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 6.4rem;
+      font-weight: 800;
+      height: 8rem;
+      left: 74.65rem;
+      line-height: 1.25;
+      position: absolute;
+      text-align: center;
+      top: 38.4rem;
+      white-space: nowrap;
+      width: 21rem;
+    }
+    .extra-50-off-492 {
+      color: #ffffff;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 6.4rem;
+      font-weight: 800;
+      height: 8rem;
+      left: 74.6rem;
+      line-height: 1.25;
+      position: absolute;
+      text-align: center;
+      top: 53.7rem;
+      white-space: nowrap;
+      width: 67.4rem;
+    }
+    .end-of-season-mJL {
+      color: #ffffff;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 800;
+      height: 9rem;
+      left: 80.2188rem;
+      line-height: 1.25;
+      position: absolute;
+      text-align: center;
+      top: 1.1rem;
+      width: 19.2rem;
+    }
+    .travel-adventure-fec {
+      color: #000000;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 6.4rem;
+      font-weight: 900;
+      height: 16rem;
+      left: 12.55rem;
+      line-height: 1.25;
+      position: absolute;
+      text-align: center;
+      top: 15.6rem;
+      width: 51.4rem;
+    }
+    .line-3-YyJ {
+      height: 0;
+      left: 10.2rem;
+      object-fit: contain;
+      position: absolute;
+      top: 42.4rem;
+      vertical-align: top;
+      width: 52.4rem;
+    }
+    .rectangle-41-gpc {
+      background-color: #f08041;
+      height: 7.8rem;
+      left: 40.5rem;
+      position: absolute;
+      top: 45.9rem;
+      width: 34.1rem;
+    }
+    .book-now-27n {
+      color: #ffffff;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 4rem;
+      font-weight: 900;
+      height: 5rem;
+      left: 43.9rem;
+      line-height: 1.25;
+      position: absolute;
+      text-align: center;
+      top: 47.3rem;
+      white-space: nowrap;
+      width: 27.3rem;
+    }
+    .travel-with-the-extraordinary-experience-X4Y {
+      color: #000000;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 4rem;
+      font-weight: 500;
+      height: 10rem;
+      left: 1.75rem;
+      line-height: 1.25;
+      position: absolute;
+      text-align: center;
+      top: 2.8rem;
+      width: 69.1rem;
+    }
+    .airplane-1-cbn {
+      height: 18.8rem;
+      left: 19.9rem;
+      object-fit: cover;
+      position: absolute;
+      top: 40.4rem;
+      vertical-align: top;
+      width: 19.7651rem;
+    }
+    .instagram-1-KFJ {
+      height: 10.4rem;
+      left: 36.8rem;
+      object-fit: cover;
+      position: absolute;
+      top: 56.8rem;
+      vertical-align: top;
+      width: 10.4rem;
+    }
+    .facebook-1-1-bTi {
+      height: 11.1rem;
+      left: 60.9rem;
+      object-fit: cover;
+      position: absolute;
+      top: 56.1rem;
+      vertical-align: top;
+      width: 11.1rem;
+    }
+    .whatsapp-1-Kec {
+      height: 10.8rem;
+      left: 49.3rem;
+      object-fit: cover;
+      position: absolute;
+      top: 55.8rem;
+      vertical-align: top;
+      width: 10.8rem;
+    }
+    .social-handles-are-availabe-for-direct-booking-jiL {
+      color: #861212;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.2rem;
+      font-weight: 700;
+      height: 15.6rem;
+      left: 0;
+      line-height: 1.2125;
+      position: absolute;
+      top: 55.2rem;
+      width: 29rem;
+    }
+    .frame-26-LCL {
+      border: solid 0.1rem #180101;
+      border-bottom: solid 0.1rem #180101;
+      box-sizing: border-box;
+      height: 27rem;
+      left: 0;
+      overflow: hidden;
+      padding: 1rem 6rem 4.4rem 6rem;
+      position: absolute;
+      top: 70rem;
+      width: 157.6rem;
+
+      .auto-group-ansg-CVS {
+        align-items: center;
+        display: flex;
+        margin-bottom: 1.4rem;
+
+        .company-vRS {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 21.1rem;
+          white-space: nowrap;
+        }
+        .explore-dqe {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 24.7rem;
+          white-space: nowrap;
+        }
+        .policies-kfN {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 24.4rem;
+          white-space: nowrap;
+        }
+        .help-5he {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          white-space: nowrap;
+        }
+      }
+      .auto-group-jo1n-dDN {
+        align-items: center;
+        display: flex;
+        margin-bottom: 1rem;
+
+        .about-us-Ngk {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 1.8rem 27.1rem 0rem 0rem;
+          white-space: nowrap;
+        }
+        .travel-guide-q4Y {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0.6rem 23.4rem 0rem 0rem;
+          white-space: nowrap;
+        }
+        .privacy-vLt {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0rem 28.9rem 0.6rem 0rem;
+          white-space: nowrap;
+        }
+        .support-px4 {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-bottom: 1.8rem;
+          white-space: nowrap;
+        }
+      }
+      .auto-group-tv9w-Mwz {
+        align-items: center;
+        display: flex;
+        margin: 0rem 0rem 1.6rem 2.7rem;
+
+        .jobs-th2 {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 1.2rem 32.4rem 0rem 0rem;
+          white-space: nowrap;
+        }
+        .hotels-csv {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 1.2rem 27.3rem 0rem 0rem;
+          white-space: nowrap;
+        }
+        .cookies-LZ2 {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0rem 28.1rem 1rem 0rem;
+          white-space: nowrap;
+        }
+        .cancel-flight-4jv {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-bottom: 1.2rem;
+          white-space: nowrap;
+        }
+      }
+      .auto-group-3ce8-wHv {
+        align-items: center;
+        display: flex;
+        margin: 0rem 0rem 3.4rem 0.2rem;
+
+        .partnership-G5J {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 24rem;
+          white-space: nowrap;
+        }
+        .travel-blog-Cje {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 25rem;
+          white-space: nowrap;
+        }
+        .terms-of-use-jja {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0rem 22.3rem 1.2rem 0rem;
+          white-space: nowrap;
+        }
+        .documents-qnc {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-top: 1.2rem;
+          white-space: nowrap;
+        }
+      }
+    }
+  }
+}

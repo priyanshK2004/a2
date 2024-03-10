@@ -1,0 +1,143 @@
+<div class="frame-13-eGt" id="33:7">
+<div class="frame-27-eAQ" id="47:76">
+<p class="kp-tour-q8Q" id="47:77">KP-TOUR</p>
+<p class="home-tsN" id="47:78">Home</p>
+<p class="stays-oDe" id="47:79">Stays</p>
+<p class="flight-iLc" id="47:83">Flight</p>
+<p class="destinations-Epk" id="47:80">Destinations</p>
+<p class="contact-Z6L" id="47:81">Contact</p>
+<p class="search-GFe" id="47:82">Search</p>
+</div>
+<div class="auto-group-y2uk-9KS" id="U1MxYuStGg9KvgZ83FY2Uk">
+<div class="auto-group-ob3s-fHn" id="U1Mt5CaHTstqwRAqahob3S">
+<p class="trust-on-us-Ze4" id="33:10">TRUST ON US</p>
+<img class="travel-type-qLg" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="47:75"/>
+</div>
+<p class="what-our-clients-says-about-us-9cG" id="33:11">What Our Clients Says About US! </p>
+<div class="auto-group-x7gg-fac" id="U1MtCcXbiiebkAJNk8X7Gg">
+<div class="auto-group-d3g8-Zfz" id="U1MtJShDaqiPH4UDNDd3g8">
+<div class="frame-14-JNg" id="33:12"></div>
+<div class="frame-15-1nt" id="33:13">
+<div class="auto-group-pvv2-VTA" id="U1MtW72TK5qxLrotcPpvV2">
+<img class="then-it-was-chadwick-1-x7n" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="34:26"/>
+<div class="auto-group-l1wu-DJc" id="U1MtgmPMdpbLHhoen3L1WU">
+<div class="auto-group-vzxz-vyi" id="U1MtmGFrxbpCKzrGdRVZXz">
+<p class="alex-feder-d7S" id="33:19">ALex Feder</p>
+<p class="item--yac" id="34:35">“</p>
+</div>
+<p class="miamiusa-SUC" id="33:20">Miami,USA</p>
+</div>
+</div>
+<p class="the-best-tour-till-date-Af6" id="34:42">The best tour till date</p>
+<img class="stars-1-3D6" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="34:30"/>
+</div>
+</div>
+<div class="frame-16-w3a" id="33:14">
+<div class="auto-group-pibv-eig" id="U1MuVfCtQAxfL8zqXNpiBv">
+<img class="item-1-zGk" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="34:27"/>
+<div class="auto-group-ft9w-iiY" id="U1MubEsvQvBQ5oLCNqFT9W">
+<div class="auto-group-xoug-GVA" id="U1MufuQpJcddJvGU5JXoUG">
+<p class="elly-forbes-cJ8" id="33:21">Elly Forbes</p>
+<p class="item--irx" id="34:36">“</p>
+</div>
+<p class="londonengland-RFa" id="33:24">London,England</p>
+</div>
+</div>
+<div class="auto-group-bhel-wji" id="U1MurebuuozgrBD4AVbHeL">
+<img class="stars-2-gxC" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="34:31"/>
+<p class="great-experience-dMe" id="34:43">Great Experience</p>
+</div>
+</div>
+<div class="frame-17-KEU" id="33:15">
+<div class="auto-group-ajjy-cDa" id="U1MvAPbMMZ36E7Z3oPaJJY">
+<img class="digital-update-alexis-petit-at-soul-artist-management-1-inQ" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="34:28"/>
+<div class="auto-group-qbt8-pKe" id="U1MvLoTfpuwRPiiLCQQBt8">
+<div class="auto-group-dm1v-A8c" id="U1MvQoM1SwUBsY5zWXDM1v">
+<p class="mia-fest-7Ze" id="33:23">Mia Fest</p>
+<p class="item--E8U" id="34:37">“</p>
+</div>
+<p class="goaindia-vmz" id="33:25">Goa,India</p>
+</div>
+</div>
+<div class="auto-group-n39e-FJU" id="U1Mvaxik4vXUFuQo8uN39e">
+<img class="stars-3-BT2" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="34:32"/>
+<p class="overall-things-is-excellent-7ba" id="35:44">Overall Things is excellent</p>
+</div>
+</div>
+</div>
+</div>
+<div class="auto-group-wjhn-PZ6" id="U1Mvm86UguakeGjbmHWjHN">
+<p class="hurry-up-and-join-us-now-KBr" id="35:49">HURRY UP AND JOIN US NOW!</p>
+<div class="frame-27-RVn" id="53:93">
+<div class="auto-group-m6vy-izg" id="U1MwTGcFU67ndGMrjYm6vY">
+<p class="company-r5J" id="53:94">Company</p>
+<p class="explore-mxx" id="53:95">Explore</p>
+<p class="policies-W9r" id="53:96">Policies</p>
+<p class="help-dkG" id="53:97">Help</p>
+</div>
+<div class="auto-group-mpue-aQc" id="U1MwdM9nocZPRDjqSPMPue">
+<p class="about-us-JrQ" id="53:99">
+About us
+
+<br/>
+</p>
+<p class="travel-guide-qLY" id="53:100">
+Travel guide
+
+<br/>
+</p>
+<p class="privacy-MZn" id="53:101">
+Privacy
+
+<br/>
+</p>
+<p class="support-t3v" id="53:102">
+Support
+
+<br/>
+</p>
+</div>
+<div class="auto-group-djmi-d1W" id="U1MwmgFFBW5ekWGTkoDJmi">
+<p class="jobs-MTJ" id="53:110">jobs</p>
+<p class="hotels-gkU" id="53:103">
+Hotels
+
+<br/>
+</p>
+<p class="cookies-c8L" id="53:105">
+Cookies
+
+<br/>
+</p>
+<p class="cancel-flight-XWC" id="53:107">
+Cancel flight
+
+<br/>
+</p>
+</div>
+<div class="auto-group-dcnq-St4" id="U1Mwv6AtqrDbgCjuzkdcnQ">
+<p class="partnership-yd6" id="53:109">
+partnership
+
+<br/>
+</p>
+<p class="travel-blog-7jJ" id="53:104">
+Travel blog
+
+<br/>
+</p>
+<p class="terms-of-use-eUL" id="53:106">
+Terms of use
+
+<br/>
+</p>
+<p class="documents-a76" id="53:108">
+Documents
+
+<br/>
+</p>
+</div>
+<div class="line-6-K4g" id="53:98"></div>
+</div>
+</div>
+</div>

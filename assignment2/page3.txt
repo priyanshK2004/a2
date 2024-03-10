@@ -1,0 +1,53 @@
+<div class="frame-1-3MN" id="18:70">
+<div class="auto-group-csnq-Tfz" id="U1Mf1QgHgxe9sK1WYMcSnQ">
+<p class="where-do-you-want-to-go-WXn" id="18:74">Where do you want to go?</p>
+<p class="hello-kS8" id="18:81">Hello,</p>
+<img class="head-1-3AL" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="18:105"/>
+<p class="see-more-Ysn" id="27:24">SEE MORE</p>
+<div class="frame-23-evp" id="47:42">
+<p class="kp-tour-7Jc" id="47:43">KP-TOUR</p>
+<p class="home-cmA" id="47:44">Home</p>
+<p class="stays-XdE" id="47:45">Stays</p>
+<p class="flight-rQc" id="47:49">Flight</p>
+<p class="destinations-nJG" id="47:46">Destinations</p>
+<p class="contact-WEG" id="47:47">Contact</p>
+<p class="search-pEx" id="47:48">Search</p>
+</div>
+</div>
+<div class="auto-group-lqg8-vHz" id="U1MgySEdBAsh8W6fNFLqG8">
+<div class="auto-group-pd6c-2rp" id="U1MfNKF7v94VnwGuFvpd6C">
+<p class="search-for-destination-KL8" id="19:13">Search for destination</p>
+<img class="magnifying-glass-1-pXn" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="18:85"/>
+</div>
+<div class="auto-group-au6p-it4" id="U1MfctfAaSixdBhVp9aU6p">
+<div class="auto-group-sypg-eFv" id="U1Mfm8vRfsdYN4HJD1sypG">
+<div class="frame-2-Nxc" id="18:89">
+<img class="mountain-1-GHJ" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="18:86"/>
+<p class="mountains-xJY" id="18:87">Mountains</p>
+</div>
+<div class="frame-3-3at" id="18:91">
+<img class="vacations-1-yDe" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="18:94"/>
+<p class="beach-Vxg" id="18:95">Beach</p>
+</div>
+</div>
+<div class="frame-4-yN4" id="18:96">
+<img class="camping-1-HtY" src="/api/prod-ap-southeast-1-first-cluster/projects/TG..." id="18:100"/>
+<p class="camp-SFe" id="18:99">Camp</p>
+</div>
+</div>
+<div class="auto-group-pyf6-7cg" id="U1Mg9nwLrgyDkMQ3K1pYF6">
+<div class="auto-group-xdxs-TgY" id="U1MgL39Gm8eBj8ffrwXdXS">
+<p class="explore-nD2" id="27:18">EXPLORE</p>
+<p class="switzerland-JSG" id="19:8">Switzerland</p>
+</div>
+<div class="auto-group-jmnk-zpt" id="U1MgS7oUUdZ23GfzFfJmNk">
+<p class="explore-vCk" id="27:19">EXPLORE</p>
+<p class="hawai-ePe" id="19:9">Hawai</p>
+</div>
+<div class="auto-group-zgkw-kBn" id="U1MgbcXepwgqgLSBVgzGKW">
+<p class="explore-HBi" id="27:20">EXPLORE</p>
+<p class="amazon-1dW" id="19:10">Amazon</p>
+</div>
+</div>
+</div>
+</div>

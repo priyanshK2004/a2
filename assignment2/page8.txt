@@ -1,0 +1,92 @@
+<div class="frame-18-RUp" id="35:51">
+<div class="auto-group-phmv-b1v" id="4VZR5WoaX6DUFDF7Ysphmv">
+<img class="social-media-1-1-UE8" src="/api/prod-ap-southeast-1-first-cluster/projects/3q..." id="37:72"/>
+<p class="follow-social-handles-xQC" id="37:74">Follow Social Handles</p>
+<div class="frame-28-Db2" id="47:84">
+<p class="kp-tour-6Pv" id="47:85">KP-TOUR</p>
+<p class="home-116" id="47:86">Home</p>
+<p class="stays-v84" id="47:87">Stays</p>
+<p class="flight-2wn" id="47:91">Flight</p>
+<p class="destinations-ZRv" id="47:88">Destinations</p>
+<p class="contact-gmS" id="47:89">Contact</p>
+<p class="search-QhS" id="47:90">Search</p>
+</div>
+<p class="kptourgmailcom-uu6" id="37:69">Kptour@gmail.com</p>
+<p class="our-email--1BS" id="37:64">Our Email :-</p>
+<p class="contact-us-hpx" id="37:66">Contact Us</p>
+<p class="item--dCp" id="37:67">:-</p>
+<p class="item-96164616498-8fN" id="37:70">96164616498</p>
+</div>
+<p class="start-now-or-never-EyJ" id="37:73">START NOW OR NEVER</p>
+<img class="thanks-you-white-transparent-brush-thank-you-vector-material-thank-you-brush-png-image-for-free-download-1-kRr" src="/api/prod-ap-southeast-1-first-cluster/projects/3q..." id="37:71"/>
+<div class="frame-28-CYk" id="53:111">
+<div class="auto-group-6yjg-WpL" id="4VZRzVHJzwVdbnScgw6YJg">
+<p class="company-Fmv" id="53:112">Company</p>
+<p class="explore-zUc" id="53:113">Explore</p>
+<p class="policies-jSC" id="53:114">Policies</p>
+<p class="help-s2c" id="53:115">Help</p>
+</div>
+<div class="auto-group-lsq4-18p" id="4VZSA4qgdiF8qG9drWLSQ4">
+<p class="about-us-LB6" id="53:117">
+About us
+
+<br/>
+</p>
+<p class="travel-guide-exU" id="53:118">
+Travel guide
+
+<br/>
+</p>
+<p class="privacy-BhW" id="53:119">
+Privacy
+
+<br/>
+</p>
+<p class="support-7r4" id="53:120">
+Support
+
+<br/>
+</p>
+</div>
+<div class="auto-group-kkqk-TQ8" id="4VZSJUmLJ4P5kxd66TkkQk">
+<p class="jobs-aUk" id="53:128">jobs</p>
+<p class="hotels-umv" id="53:121">
+Hotels
+
+<br/>
+</p>
+<p class="cookies-37S" id="53:123">
+Cookies
+
+<br/>
+</p>
+<p class="cancel-flight-mJL" id="53:125">
+Cancel flight
+
+<br/>
+</p>
+</div>
+<div class="auto-group-2fnc-65i" id="4VZSRyYqqMkXA7hTBS2fnc">
+<p class="partnership-EBv" id="53:127">
+partnership
+
+<br/>
+</p>
+<p class="travel-blog-mhe" id="53:122">
+Travel blog
+
+<br/>
+</p>
+<p class="terms-of-use-JxU" id="53:124">
+Terms of use
+
+<br/>
+</p>
+<p class="documents-SYt" id="53:126">
+Documents
+
+<br/>
+</p>
+</div>
+</div>
+</div>

@@ -1,0 +1,199 @@
+.frame-21-nyr {
+  border: solid 0.1rem #d9d9d9;
+  border-bottom: solid 0.1rem #d9d9d9;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 1rem 6rem 3.2rem 6rem;
+  position: relative;
+  width: 100%;
+
+  .auto-group-icds-ZNL {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    margin-bottom: 1.4rem;
+
+    .company-9jr {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-right: 21.1rem;
+      white-space: nowrap;
+    }
+    .explore-RBa {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-right: 24.7rem;
+      white-space: nowrap;
+    }
+    .policies-Ymz {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-right: 24.4rem;
+      white-space: nowrap;
+    }
+    .help-tL4 {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      white-space: nowrap;
+    }
+  }
+  .auto-group-s1wa-2BN {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    margin-bottom: 1rem;
+
+    .about-us-mek {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 1.8rem 27.1rem 0rem 0rem;
+      white-space: nowrap;
+    }
+    .travel-guide-V4x {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0.6rem 23.4rem 0rem 0rem;
+      white-space: nowrap;
+    }
+    .privacy-Czx {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 28.9rem 0.6rem 0rem;
+      white-space: nowrap;
+    }
+    .support-Kpg {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-bottom: 1.8rem;
+      white-space: nowrap;
+    }
+  }
+  .auto-group-nhpj-FyE {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    margin: 0rem 0rem 1.6rem 2.7rem;
+
+    .jobs-Nnx {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 1.2rem 32.4rem 0rem 0rem;
+      white-space: nowrap;
+    }
+    .hotels-gHr {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 1.2rem 27.3rem 0rem 0rem;
+      white-space: nowrap;
+    }
+    .cookies-zpL {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 28.1rem 1rem 0rem;
+      white-space: nowrap;
+    }
+    .cancel-flight-Krc {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-bottom: 1.2rem;
+      white-space: nowrap;
+    }
+  }
+  .auto-group-b14q-rrY {
+    align-items: center;
+    display: flex;
+    flex-shrink: 0;
+    margin: 0rem 0rem 3.4rem 0.2rem;
+
+    .partnership-CQc {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-right: 24rem;
+      white-space: nowrap;
+    }
+    .travel-blog-94x {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-right: 25rem;
+      white-space: nowrap;
+    }
+    .terms-of-use-Usv {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 22.3rem 1.2rem 0rem;
+      white-space: nowrap;
+    }
+    .documents-CZ2 {
+      color: #d9d9d9;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 2.4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-top: 1.2rem;
+      white-space: nowrap;
+    }
+  }
+}

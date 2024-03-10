@@ -1,0 +1,350 @@
+frame-7-cCC {
+  background-color: rgba(255, 255, 255, 0.6999999881);
+  height: 93.7rem;
+  opacity: 0.7;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .camera-bags-for-women-no-need-to-multiply-just-simplify-1-CAQ {
+    height: 93.7rem;
+    left: 0;
+    object-fit: cover;
+    opacity: 0.89;
+    position: absolute;
+    top: 0;
+    vertical-align: top;
+    width: 82.2rem;
+  }
+  .contact-SKe {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 3.6rem;
+    font-weight: 800;
+    height: 4.5rem;
+    left: 60.7rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 85.1rem;
+    white-space: nowrap;
+    width: 19.6rem;
+  }
+  .item--Eui {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 4rem;
+    font-weight: 800;
+    height: 5rem;
+    left: 72.5rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 36.2rem;
+    white-space: nowrap;
+    width: 3.9rem;
+  }
+  .plan-your-next-dream-trip-8EQ {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 4rem;
+    font-weight: 800;
+    height: 5rem;
+    left: 2.8rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 29.1rem;
+    white-space: nowrap;
+    width: 73.6rem;
+  }
+  .select-your-destination-1Z6 {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 4rem;
+    font-weight: 800;
+    height: 5rem;
+    left: 5.4rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 36.2rem;
+    white-space: nowrap;
+    width: 65.7rem;
+  }
+  .about-iCc {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 3.2rem;
+    font-weight: 800;
+    height: 4rem;
+    left: 5rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 85.4rem;
+    white-space: nowrap;
+    width: 13rem;
+  }
+  .terms-of-us-Qr8 {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 3.2rem;
+    font-weight: 800;
+    height: 4rem;
+    left: 26.4rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 85.4rem;
+    white-space: nowrap;
+    width: 25.9rem;
+  }
+  .rectangle-32-hKS {
+    background-color: rgba(217, 217, 217, 0.5);
+    height: 7.6rem;
+    left: 23.9rem;
+    opacity: 0.5;
+    position: absolute;
+    top: 55.3rem;
+    width: 33.1rem;
+  }
+  .learn-more-CX6 {
+    color: #000000;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 4rem;
+    font-weight: 400;
+    height: 5rem;
+    left: 24.8rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 56.6rem;
+    white-space: nowrap;
+    width: 29.7rem;
+  }
+  .e-mail-7PA {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 3.6rem;
+    font-weight: 600;
+    height: 4.5rem;
+    left: 88.2rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 18.5rem;
+    white-space: nowrap;
+    width: 15.6rem;
+  }
+  .rectangle-33-1zL {
+    background-color: #000000;
+    height: 94.8rem;
+    left: 80.7516rem;
+    position: absolute;
+    top: 0;
+    width: 77.2969rem;
+  }
+  .sign-in-MYQ {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 4.8rem;
+    font-weight: 800;
+    height: 6rem;
+    left: 88.2rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 12.5rem;
+    white-space: nowrap;
+    width: 24.9rem;
+  }
+  .frame-9-rk4 {
+    border: solid 0.1rem #ffffff;
+    border-radius: 5rem;
+    box-sizing: border-box;
+    height: 6.8rem;
+    left: 83.6rem;
+    overflow: hidden;
+    position: absolute;
+    top: 30.7rem;
+    width: 62.9rem;
+  }
+  .frame-10-xYC {
+    border: solid 0.1rem #ffffff;
+    border-radius: 5rem;
+    box-sizing: border-box;
+    height: 6.8rem;
+    left: 83.6rem;
+    overflow: hidden;
+    position: absolute;
+    top: 47.3rem;
+    width: 62.9rem;
+  }
+  .password-GHz {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 3.2rem;
+    font-weight: 800;
+    height: 4rem;
+    left: 85rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 42.3rem;
+    white-space: nowrap;
+    width: 20.7rem;
+  }
+  .e-mail-Nrp {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 3.2rem;
+    font-weight: 800;
+    height: 4rem;
+    left: 85rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 25.9rem;
+    white-space: nowrap;
+    width: 14.5rem;
+  }
+  .forgot-password-VAk {
+    color: #f80c0c;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 2.4rem;
+    font-weight: 600;
+    height: 3rem;
+    left: 84.5rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 60.8rem;
+    white-space: nowrap;
+    width: 28.6rem;
+  }
+  .rectangle-34-axt {
+    height: 6.5rem;
+    left: 119.4rem;
+    object-fit: contain;
+    position: absolute;
+    top: 59.6rem;
+    vertical-align: top;
+    width: 21.2rem;
+  }
+  .sign-up-XNL {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 3.2rem;
+    font-weight: 600;
+    height: 4rem;
+    left: 121.1rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 60.3rem;
+    white-space: nowrap;
+    width: 17.8rem;
+  }
+  .dont-have-an-account-35n {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 2.4rem;
+    font-weight: 600;
+    height: 3rem;
+    left: 84.5rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 73.8rem;
+    white-space: nowrap;
+    width: 39.1rem;
+  }
+  .sign-in-vvG {
+    color: #ffffff;
+    font-family: Lexend Giga, 'Source Sans Pro';
+    font-size: 3.2rem;
+    font-weight: 600;
+    height: 4rem;
+    left: 123.6rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    top: 73.3rem;
+    white-space: nowrap;
+    width: 15.1rem;
+  }
+  .rectangle-35-DeU {
+    background-color: #0f76ee;
+    height: 5.7rem;
+    left: 90.6rem;
+    position: absolute;
+    top: 85.4rem;
+    width: 25.6rem;
+  }
+  .rectangle-36-9Y8 {
+    background-color: #5ed0f3;
+    height: 5.7rem;
+    left: 116.5rem;
+    position: absolute;
+    top: 85.4rem;
+    width: 27rem;
+  }
+  .facebook-gnx {
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 3.2rem;
+    font-weight: 800;
+    height: 3.9rem;
+    left: 96rem;
+    line-height: 1.2125;
+    position: absolute;
+    top: 86.3rem;
+    white-space: nowrap;
+    width: 14.9rem;
+  }
+  .twitter-b9E {
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 3.2rem;
+    font-weight: 800;
+    height: 3.9rem;
+    left: 123.6rem;
+    line-height: 1.2125;
+    position: absolute;
+    top: 86.3rem;
+    white-space: nowrap;
+    width: 11.5rem;
+  }
+  .or-use-your-social-accounts-tPE {
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 2.4rem;
+    font-weight: 600;
+    height: 3rem;
+    left: 97.6rem;
+    line-height: 1.2125;
+    position: absolute;
+    top: 81.5rem;
+    white-space: nowrap;
+    width: 40.1rem;
+  }
+  .facebook-1-2-nDi {
+    height: 4.8rem;
+    left: 90.6rem;
+    object-fit: cover;
+    position: absolute;
+    top: 85.9rem;
+    vertical-align: top;
+    width: 4.8rem;
+  }
+  .twitter-1-6kC {
+    height: 4.8rem;
+    left: 117.6rem;
+    object-fit: cover;
+    position: absolute;
+    top: 85.9rem;
+    vertical-align: top;
+    width: 4.8rem;
+  }
+}

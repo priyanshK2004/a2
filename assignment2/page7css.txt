@@ -1,0 +1,723 @@
+frame-13-eGt {
+  align-items: center;
+  background-color: #e2dcdc;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding-top: 1.3rem;
+  position: relative;
+  width: 100%;
+
+  .frame-27-eAQ {
+    align-items: center;
+    border: solid 0.6rem #bca8a8;
+    border-radius: 1.2rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-shrink: 0;
+    overflow: hidden;
+    padding: 0.6rem 6.5rem 0.5rem 1.9rem;
+    position: relative;
+    width: 100%;
+
+    .kp-tour-q8Q {
+      color: #7b8137;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 4rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-right: 15.2rem;
+      white-space: nowrap;
+    }
+    .home-tsN {
+      color: #f91010;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 3.3rem 0.5rem 0rem;
+      white-space: nowrap;
+    }
+    .stays-oDe {
+      color: #f51a1a;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 3.3rem 0.1rem 0rem;
+      white-space: nowrap;
+    }
+    .flight-iLc {
+      color: #f91010;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 3.2rem 0.5rem 0rem;
+      white-space: nowrap;
+    }
+    .destinations-Epk {
+      color: #f51a1a;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 3.2rem 0.5rem 0rem;
+      white-space: nowrap;
+    }
+    .contact-Z6L {
+      color: #ec4b4b;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin: 0rem 27.6rem 0.5rem 0rem;
+      white-space: nowrap;
+    }
+    .search-GFe {
+      color: #f85f2f;
+      flex-shrink: 0;
+      font-family: Inter, 'Source Sans Pro';
+      font-size: 3.6rem;
+      font-weight: 400;
+      line-height: 1.2125;
+      margin-bottom: 0.1rem;
+      white-space: nowrap;
+    }
+  }
+  .auto-group-y2uk-9KS {
+    align-items: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding: 0rem 4.75rem 2.3rem 4.75rem;
+    width: 100%;
+
+    .auto-group-ob3s-fHn {
+      align-items: flex-end;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 17.636rem 2.296rem 31.45rem;
+      width: calc(100% - 49.0858rem);
+
+      .trust-on-us-Ze4 {
+        color: #ec4b4b;
+        flex-shrink: 0;
+        font-family: Lexend Giga, 'Source Sans Pro';
+        font-size: 4.8rem;
+        font-weight: 400;
+        line-height: 1.25;
+        margin: 0rem 25.8rem 0.004rem 0rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+      .travel-type-qLg {
+        flex-shrink: 0;
+        height: 2.804rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 32.6142rem;
+      }
+    }
+    .what-our-clients-says-about-us-9cG {
+      color: #000000;
+      flex-shrink: 0;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 6.4rem;
+      font-weight: 800;
+      line-height: 1.25;
+      margin-bottom: 12.2rem;
+      text-align: center;
+      white-space: nowrap;
+    }
+    .auto-group-x7gg-fac {
+      align-items: flex-start;
+      column-gap: 9.2rem;
+      display: flex;
+      flex-shrink: 0;
+      margin: 0rem 6.65rem 0rem 2.45rem;
+      width: calc(100% - 9.1rem);
+
+      .auto-group-d3g8-Zfz {
+        flex-shrink: 0;
+        height: 42.7rem;
+        margin-top: 0.1rem;
+        position: relative;
+        width: 40.2rem;
+
+        .frame-14-JNg {
+          height: 11.3rem;
+          left: 2.8rem;
+          overflow: hidden;
+          position: absolute;
+          top: 3rem;
+          width: 8.2rem;
+        }
+        .frame-15-1nt {
+          align-items: center;
+          border: solid 0.1rem #1b0101;
+          border-radius: 4.9rem;
+          box-sizing: border-box;
+          display: flex;
+          flex-direction: column;
+          height: 42.7rem;
+          left: 0;
+          overflow: hidden;
+          padding: 0rem 0.05rem 0rem 2.2rem;
+          position: absolute;
+          top: 0;
+          width: 40.2rem;
+
+          .auto-group-pvv2-VTA {
+            align-items: flex-end;
+            display: flex;
+            flex-shrink: 0;
+            margin-bottom: 3.1714rem;
+            width: 100%;
+
+            .then-it-was-chadwick-1-x7n {
+              flex-shrink: 0;
+              height: 11.2286rem;
+              margin-right: 2rem;
+              object-fit: cover;
+              vertical-align: top;
+              width: 9rem;
+            }
+            .auto-group-l1wu-DJc {
+              flex-shrink: 0;
+              margin-bottom: 2.6286rem;
+              width: 26.9495rem;
+
+              .auto-group-vzxz-vyi {
+                height: 18rem;
+                position: relative;
+                width: 100%;
+
+                .alex-feder-d7S {
+                  color: #000000;
+                  font-family: Lexend Giga, 'Source Sans Pro';
+                  font-size: 3.2rem;
+                  font-weight: 400;
+                  height: 4rem;
+                  left: 0;
+                  line-height: 1.25;
+                  position: absolute;
+                  text-align: center;
+                  top: 14rem;
+                  white-space: nowrap;
+                  width: 23.5rem;
+                }
+                .item--yac {
+                  color: #f85f2f;
+                  font-family: Lexend Giga, 'Source Sans Pro';
+                  font-size: 12.8rem;
+                  font-weight: 400;
+                  height: 16rem;
+                  left: 19.9495rem;
+                  line-height: 1.25;
+                  position: absolute;
+                  text-align: center;
+                  top: 0;
+                  white-space: nowrap;
+                  width: 7rem;
+                }
+              }
+              .miamiusa-SUC {
+                color: #000000;
+                font-family: Lexend Giga, 'Source Sans Pro';
+                font-size: 2.4rem;
+                font-weight: 400;
+                line-height: 1.25;
+                text-align: center;
+                white-space: nowrap;
+                width: 100%;
+              }
+            }
+          }
+          .the-best-tour-till-date-Af6 {
+            color: #000000;
+            flex-shrink: 0;
+            font-family: Lexend Giga, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-weight: 400;
+            line-height: 1.25;
+            margin: 0rem 0.95rem 0.2rem 0rem;
+            max-width: 28.2rem;
+            text-align: center;
+          }
+          .stars-1-3D6 {
+            flex-shrink: 0;
+            height: 16.5rem;
+            margin-right: 18.6495rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 16.5rem;
+          }
+        }
+      }
+      .frame-16-w3a {
+        align-items: center;
+        border: solid 0.1rem #1b0101;
+        border-radius: 4.9rem;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        height: 42.7rem;
+        overflow: hidden;
+        padding-left: 2.6rem;
+        position: relative;
+        width: 40.2rem;
+
+        .auto-group-pibv-eig {
+          align-items: flex-end;
+          display: flex;
+          flex-shrink: 0;
+          margin-bottom: 3.0203rem;
+          width: 100%;
+
+          .item-1-zGk {
+            flex-shrink: 0;
+            height: 13.6594rem;
+            margin-right: 2.9rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 9.3rem;
+          }
+          .auto-group-ft9w-iiY {
+            flex-shrink: 0;
+            margin-bottom: 2.9797rem;
+            width: 25.4rem;
+
+            .auto-group-xoug-GVA {
+              height: 19.1rem;
+              position: relative;
+              width: 24.1495rem;
+
+              .elly-forbes-cJ8 {
+                color: #000000;
+                font-family: Lexend Giga, 'Source Sans Pro';
+                font-size: 3.2rem;
+                font-weight: 400;
+                height: 4rem;
+                left: 0;
+                line-height: 1.25;
+                position: absolute;
+                text-align: center;
+                top: 15.1rem;
+                white-space: nowrap;
+                width: 23.1rem;
+              }
+              .item--irx {
+                color: #f85f2f;
+                font-family: Lexend Giga, 'Source Sans Pro';
+                font-size: 12.8rem;
+                font-weight: 400;
+                height: 16rem;
+                left: 17.1495rem;
+                line-height: 1.25;
+                position: absolute;
+                text-align: center;
+                top: 0;
+                white-space: nowrap;
+                width: 7rem;
+              }
+            }
+            .londonengland-RFa {
+              color: #000000;
+              font-family: Lexend Giga, 'Source Sans Pro';
+              font-size: 2.4rem;
+              font-weight: 400;
+              line-height: 1.25;
+              text-align: center;
+              white-space: nowrap;
+              width: 100%;
+            }
+          }
+        }
+        .auto-group-bhel-wji {
+          flex-shrink: 0;
+          height: 24rem;
+          margin-right: 8.9rem;
+          position: relative;
+          width: 28.7rem;
+
+          .stars-2-gxC {
+            height: 16.5rem;
+            left: 0;
+            object-fit: cover;
+            position: absolute;
+            top: 7.5rem;
+            vertical-align: top;
+            width: 16.5rem;
+          }
+          .great-experience-dMe {
+            color: #000000;
+            font-family: Lexend Giga, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-weight: 400;
+            height: 8rem;
+            left: 5.1rem;
+            line-height: 1.25;
+            position: absolute;
+            text-align: center;
+            top: 0;
+            width: 23.6rem;
+          }
+        }
+      }
+      .frame-17-KEU {
+        align-items: center;
+        border: solid 0.1rem #1b0101;
+        border-radius: 4.9rem;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        height: 42.7rem;
+        overflow: hidden;
+        padding: 0rem 0.75rem 0rem 3.4rem;
+        position: relative;
+        width: 40.2rem;
+
+        .auto-group-ajjy-cDa {
+          align-items: flex-end;
+          display: flex;
+          flex-shrink: 0;
+          margin: 0rem 0rem 4.25rem 0.8rem;
+          width: calc(100% - 0.8rem);
+
+          .digital-update-alexis-petit-at-soul-artist-management-1-inQ {
+            flex-shrink: 0;
+            height: 13.05rem;
+            margin-right: 2.1rem;
+            object-fit: cover;
+            vertical-align: top;
+            width: 8.7rem;
+          }
+          .auto-group-qbt8-pKe {
+            flex-shrink: 0;
+            margin-bottom: 2.75rem;
+            width: 24.4495rem;
+
+            .auto-group-dm1v-A8c {
+              height: 18rem;
+              position: relative;
+              width: 100%;
+
+              .mia-fest-7Ze {
+                color: #000000;
+                font-family: Lexend Giga, 'Source Sans Pro';
+                font-size: 3.2rem;
+                font-weight: 400;
+                height: 4rem;
+                left: 0;
+                line-height: 1.25;
+                position: absolute;
+                text-align: center;
+                top: 14rem;
+                white-space: nowrap;
+                width: 17.5rem;
+              }
+              .item--E8U {
+                color: #f85f2f;
+                font-family: Lexend Giga, 'Source Sans Pro';
+                font-size: 12.8rem;
+                font-weight: 400;
+                height: 16rem;
+                left: 17.4495rem;
+                line-height: 1.25;
+                position: absolute;
+                text-align: center;
+                top: 0;
+                white-space: nowrap;
+                width: 7rem;
+              }
+            }
+            .goaindia-vmz {
+              color: #000000;
+              font-family: Lexend Giga, 'Source Sans Pro';
+              font-size: 2.4rem;
+              font-weight: 400;
+              line-height: 1.25;
+              text-align: center;
+              white-space: nowrap;
+              width: 100%;
+            }
+          }
+        }
+        .auto-group-n39e-FJU {
+          flex-shrink: 0;
+          height: 23.1rem;
+          margin-right: 1.2495rem;
+          position: relative;
+          width: 34.8rem;
+
+          .stars-3-BT2 {
+            height: 16.5rem;
+            left: 0.2rem;
+            object-fit: cover;
+            position: absolute;
+            top: 6.6rem;
+            vertical-align: top;
+            width: 16.5rem;
+          }
+          .overall-things-is-excellent-7ba {
+            color: #000000;
+            font-family: Lexend Giga, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-weight: 400;
+            height: 8rem;
+            left: 0;
+            line-height: 1.25;
+            position: absolute;
+            text-align: center;
+            top: 0;
+            width: 34.8rem;
+          }
+        }
+      }
+    }
+  }
+  .auto-group-wjhn-PZ6 {
+    align-items: center;
+    background-image: url('/api/prod-ap-southeast-1-first-cluster/projects/TG1krrz9iF4dtZe9dyhoWy/files/image/4aeb46f20b0089c0f2059e29d6ceef951a43627b');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    height: 48.4rem;
+    padding: 2.4rem 0rem 1.2rem 0rem;
+    width: 100%;
+
+    .hurry-up-and-join-us-now-KBr {
+      color: #000000;
+      flex-shrink: 0;
+      font-family: Lexend Giga, 'Source Sans Pro';
+      font-size: 6.4rem;
+      font-weight: 400;
+      line-height: 1.25;
+      margin: 0rem 8.1rem 11rem 0rem;
+      text-align: center;
+      white-space: nowrap;
+    }
+    .frame-27-RVn {
+      border: solid 0.1rem #180101;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      height: 25.8rem;
+      overflow: hidden;
+      padding-top: 1rem;
+      position: relative;
+      width: 100%;
+
+      .auto-group-m6vy-izg {
+        align-items: center;
+        display: flex;
+        flex-shrink: 0;
+        margin: 0rem 0rem 1.4rem 6rem;
+
+        .company-r5J {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 21.1rem;
+          white-space: nowrap;
+        }
+        .explore-mxx {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 24.7rem;
+          white-space: nowrap;
+        }
+        .policies-W9r {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 24.4rem;
+          white-space: nowrap;
+        }
+        .help-dkG {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 3.6rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          white-space: nowrap;
+        }
+      }
+      .auto-group-mpue-aQc {
+        align-items: center;
+        display: flex;
+        flex-shrink: 0;
+        margin: 0rem 0rem 1rem 6rem;
+
+        .about-us-JrQ {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 1.8rem 27.1rem 0rem 0rem;
+          white-space: nowrap;
+        }
+        .travel-guide-qLY {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0.6rem 23.4rem 0rem 0rem;
+          white-space: nowrap;
+        }
+        .privacy-MZn {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0rem 28.9rem 0.6rem 0rem;
+          white-space: nowrap;
+        }
+        .support-t3v {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-bottom: 1.8rem;
+          white-space: nowrap;
+        }
+      }
+      .auto-group-djmi-d1W {
+        align-items: center;
+        display: flex;
+        flex-shrink: 0;
+        margin: 0rem 25.5rem 1.6rem 8.7rem;
+        width: calc(100% - 34.2rem);
+
+        .jobs-MTJ {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 1.2rem 32.4rem 0rem 0rem;
+          white-space: nowrap;
+        }
+        .hotels-gkU {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 1.2rem 27.3rem 0rem 0rem;
+          white-space: nowrap;
+        }
+        .cookies-c8L {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0rem 28.1rem 1rem 0rem;
+          white-space: nowrap;
+        }
+        .cancel-flight-XWC {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-bottom: 1.2rem;
+          white-space: nowrap;
+        }
+      }
+      .auto-group-dcnq-St4 {
+        align-items: center;
+        display: flex;
+        flex-shrink: 0;
+        margin: 0rem 0rem 3.4rem 6.2rem;
+
+        .partnership-yd6 {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 24rem;
+          white-space: nowrap;
+        }
+        .travel-blog-7jJ {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-right: 25rem;
+          white-space: nowrap;
+        }
+        .terms-of-use-eUL {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin: 0rem 22.3rem 1.2rem 0rem;
+          white-space: nowrap;
+        }
+        .documents-a76 {
+          color: #180101;
+          flex-shrink: 0;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          margin-top: 1.2rem;
+          white-space: nowrap;
+        }
+      }
+      .line-6-K4g {
+        background-color: #180101;
+        flex-shrink: 0;
+        height: 0.1rem;
+        width: 144.0001rem;
+      }
+    }
+  }
+}
